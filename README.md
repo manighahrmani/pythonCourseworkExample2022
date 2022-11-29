@@ -2,7 +2,7 @@
 
 To prepare you for the Python coursework, Nadim has provided this program which you can use as an example only.
 Either clone the repository or download the zip file and extract it to your computer.
-Next run `program.py` in your editor of choice or run the following command in terminal:
+Next, run `program.py` in your editor of choice or run the following command in the terminal:
 
 ```bash
 python3 program.py
@@ -47,7 +47,7 @@ This will only draw a patch on the top left of the screen.
 
 # Stage 2
 
-At stage 2, the program will draw patches at the mouse click position.
+In stage 2, the program will draw patches at the mouse click position.
 Note how patches 1 and 2 are switched between clicks.
 To run this stage, comment stage 1 and uncomment the lines for stage 2 as shown below:
 
